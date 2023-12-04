@@ -1,0 +1,4 @@
+﻿  区间合并.cpp
+C:\Users\pc\Desktop\C++\区间合并\区间合并\区间合并.cpp(13,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\C++\区间合并\区间合并\区间合并.cpp(13,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  区间合并.vcxproj -> C:\Users\pc\Desktop\C++\区间合并\x64\Debug\区间合并.exe
